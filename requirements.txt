@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pymupdf
+camelot-py[cv]
+python-multipart
+boto3
